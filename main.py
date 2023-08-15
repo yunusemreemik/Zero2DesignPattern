@@ -1,4 +1,4 @@
-name = "Mustafa"
+name = "Yunus Emre"
 surname = "Yıldız"
 
 surnames = ["Yıldız", "Aksoy", "Demir"]
