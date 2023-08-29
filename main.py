@@ -2,6 +2,8 @@ name = "Yunus Emre"
 surname = "Yıldız"
 
 surnames = ["Yıldız", "Aksoy", "Demir"]
+surnames1 = ["Yıldız", "Aksoy", "Demir"]
+[(x, y) for x in surnames for y in surnames1]
 
 if surname in surnames:
     print(True)
