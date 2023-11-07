@@ -3,7 +3,7 @@ def pi_organizer(pi):
         print("buyuktur uc")
         return True
     elif pi <= 3:
-        print("buyuk degıldır uc")
+        print("buyuk degıldır üç")
         return False
     
     print("tanımsız")
