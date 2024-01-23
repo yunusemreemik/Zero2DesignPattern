@@ -1,0 +1,4 @@
+id,username,password,posts,notifications
+1,user1,pass1,Post 1,Notification 1
+2,user2,pass2,Post 2,Notification 2
+3,user3,pass3,Post 3,Notification 3
