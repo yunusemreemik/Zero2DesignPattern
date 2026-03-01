@@ -1,0 +1,14 @@
+### Health check
+GET http://127.0.0.1:8080/health
+
+### Create a message (POST sample)
+POST http://127.0.0.1:8080/api/v1/messages
+Content-Type: application/json
+
+{
+  "name": "Ada",
+  "message": "Hello from POST sample"
+}
+
+### List messages
+GET http://127.0.0.1:8080/api/v1/messages
